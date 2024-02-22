@@ -12,6 +12,8 @@ Over the last few decades, water has become a scarce resource in many communitie
 * Non-profits allocate resources to mitigate human impact
 * Governments plan infrastructure problems more efficiently
 
+  	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
+
 ### Data cleaning
 
 ### Exploratory Data Analysis
