@@ -9,9 +9,9 @@ In this project, I will analyze water quality across major Canadian rivers. Data
 ### Background
 Over the last few decades, water has become a scarce resource in many communities across Canada. The aim of this analysis is to identify stressors affecting acces to water.
 My main goal is to help: 
-    Corporations could optimize their consumption
-    Non-profits could allocate resources to mitigate human impact
-    Governments could plan infrastructure problems more efficiently
+* Corporations optimize their consumption
+* Non-profits allocate resources to mitigate human impact
+* Governments plan infrastructure problems more efficiently
 
 ### Data cleaning
 
