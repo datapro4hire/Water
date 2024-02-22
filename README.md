@@ -1,7 +1,7 @@
 # Water Access Analysis
 ### Capstone Project - Data Science Diploma
 
-Welcome! In here you will find details about my data science project. I will show you how I got started with the data, and how I implemented machime learning, and more!
+Welcome! In here you will find details about my data science project. I will show you how I got started with the data, and how I implemented machine learning, and yes some cool AI stuff. Join me in this journey!
 
 ### Introduction
 In this project, I will analyze water quality across major Canadian rivers. Data was obtained from the Government of Canada's Open Data site.
