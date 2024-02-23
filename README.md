@@ -18,12 +18,11 @@ Over the last few decades, water has become a scarce resource in many communitie
 
 ### Exploratory Data Analysis
 
+#### Data Dictionary
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
+
 <!--
  /* Font Definitions */
  @font-face
@@ -50,7 +49,7 @@ Over the last few decades, water has become a scarce resource in many communitie
 div.WordSection1
 	{page:WordSection1;}
 -->
-</style>
+
 
 </head>
 
