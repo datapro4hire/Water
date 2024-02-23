@@ -1,6 +1,9 @@
+<div style="background-color: yellow; padding: 10px;">
+</div>
+
 # Water Access Analysis
 ### Capstone Project - Data Science Diploma
-
+</div>
 Welcome! In here you will find details about my data science project. I will show you how I got started with the data analysis, and how I implemented machine learning.
 
 ### Introduction
