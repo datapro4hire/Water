@@ -15,6 +15,7 @@ Over the last few decades, water has become a scarce resource in many communitie
   	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
 
 ### Data cleaning
+So far I have completed: Data collection, preliminary visualization, and initial Exploratory Data Analysis (EDA). I have noticed certaing limitations could hinder machine learning work. Namely, the datasets are focused on chemicals. I am also looking into data quality issues stemming from the methods use (i.e. sample data collected at multiple sites by multiple parties and devices).
 
 ### Exploratory Data Analysis
 
