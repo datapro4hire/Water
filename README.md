@@ -17,8 +17,6 @@ Over the last few decades, water has become a scarce resource in many communitie
 ### Data cleaning
 So far I have completed: Data collection, preliminary visualization, and initial Exploratory Data Analysis (EDA). In this process I have noticed certain limitations could hinder machine learning work. Namely, the datasets are focused on chemicals. I will also be looking into data quality issues stemming from the methods use (i.e. sample data collected at multiple sites by multiple parties and devices).
 
-### Exploratory Data Analysis
-
 #### Data Dictionary
 <html>
 
@@ -574,7 +572,7 @@ div.WordSection1
 </body>
 
 </html>
-
+### Exploratory Data Analysis
 
 ### Statistical Analysis
 
