@@ -10,7 +10,7 @@ In this project, I will analyze the impact of pollution affecting Canadian river
 Over the last few decades, water has become a scarce resource in many communities across Canada. The aim of this analysis is to identify stressors affecting access to water and to predict water restrictions down the road. My ultimate goal is to help: 
 * Corporations optimize their consumption
 * Non-profits allocate resources to mitigate human impact
-* Governments plan infrastructure problems more efficiently
+* Governments plan infrastructure projects more efficiently
 
   	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
 
