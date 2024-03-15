@@ -572,13 +572,19 @@ div.WordSection1
 </html>
 
 ### Exploratory Data Analysis
+I spent quite a bit of time on this task, becoming familiar with the dataset. This is a large dataset, spanning 2 decades, with data fron locations all over Canada.
 
 ### Statistical Analysis
+I identified the Target variable and performed some basic statistical analysis. As a result, I selected Linear Regression as my baseline model.
 
 ### Machine Learning
+Over the next few days, I will work on modelling and so far I have selected: Linear Regression, Randon Forest, and Adaboost.
 
 ### Findings
+There are issues with my dataset and I need to resolve them before moving to the modelling phase.
 
 ### Next Steps
+Feature enginnering, ML Pipeline, and Dashboard.
 
 ### Conclusion and Call to Action
+TBD/In Progress
