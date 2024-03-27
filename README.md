@@ -12,6 +12,7 @@ Over the last few decades, water has become a scarce resource in many communitie
 * Non-profits allocate resources to mitigate human impact
 * Governments plan infrastructure projects more efficiently
 
+<div style="position: relative; padding-bottom: 74.68879668049793%; height: 0;"><iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
   	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
 
 ### Data cleaning
