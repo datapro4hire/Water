@@ -57,8 +57,8 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=630
- style='width:472.25pt;border-collapse:collapse;border:none'>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=630 style="width:100%">
+<!-- style='width:472.25pt;border-collapse:collapse;border:none'> -->
  <tr style='height:15.05pt'>
   <td width=148 style='width:110.8pt;border:solid windowtext 1.0pt;padding:
   0in 5.4pt 0in 5.4pt;height:15.05pt'>
