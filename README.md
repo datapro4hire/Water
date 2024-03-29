@@ -11,9 +11,10 @@ Over the last few decades, water has become a scarce resource in many communitie
 * Corporations optimize their consumption
 * Non-profits allocate resources to mitigate human impact
 * Governments plan infrastructure projects more efficiently
-
-  	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
-
+  <video width="640" height="480" controls>
+  <source src="docs/WaterCaptsone.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 ### Data cleaning
 So far I have completed: Data collection, preliminary visualization, and initial Exploratory Data Analysis (EDA). In this process I have noticed certain limitations could hinder machine learning work. Namely, the datasets are focused on chemicals. I will also be looking into data quality issues stemming from the methods use (i.e. sample data collected at multiple sites by multiple parties and devices).
 
