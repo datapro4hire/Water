@@ -12,9 +12,10 @@ Over the last few decades, water has become a scarce resource in many communitie
 * Non-profits allocate resources to mitigate human impact
 * Governments plan infrastructure projects more efficiently
 
-
-
-![alt text](image.png)
+<video width="640" height="480" controls>
+  <source src="WaterCapstone.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### Data cleaning 
 So far I have completed: Data collection, preliminary visualization, and initial Exploratory Data Analysis (EDA). In this process I have noticed certain limitations could hinder machine learning work. Namely, the datasets are focused on chemicals. I will also be looking into data quality issues stemming from the methods use (i.e. sample data collected at multiple sites by multiple parties and devices).
