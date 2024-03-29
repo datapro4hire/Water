@@ -11,7 +11,7 @@ Over the last few decades, water has become a scarce resource in many communitie
 * Corporations optimize their consumption
 * Non-profits allocate resources to mitigate human impact
 * Governments plan infrastructure projects more efficiently
-  <video width="640" height="480" autoplay muted>>
+  <video width="640" height="480" autoplay muted>
   <source src="docs/WaterCaptsone.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
