@@ -584,7 +584,7 @@ I identified the Target variable and performed some basic statistical analysis. 
 Over the next few days, I will work on modelling and so far I have selected: Linear Regression, Randon Forest, and Adaboost.
 
 ### Advanced Modelling
-There are issues with my dataset and I need to resolve them before moving to the modelling phase.
+Given that our data is continuous and categorical, we chose regressors Models, including: Linear Regression, Random Forest Regressor, AdaBoost, Gradient Booster Regressor, and XGBoost. Although Linear Regression gave us excellent model performance, it also has a low score in AUROC (Measure of prediction power) and low scoresin Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. Hence, we proceeded to fine tune Random Fores, AdaBoost and XGBoost only.
 
 ### Models Comparisons
 Feature enginnering, ML Pipeline, and Dashboard.
