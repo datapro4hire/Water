@@ -578,16 +578,16 @@ div.WordSection1
 
 
 ### Exploratory Data Analysis
-I identified the Target variable and performed some basic statistical analysis. As a result, I selected Linear Regression as my baseline model.
+We acquired data from the Government of Canada. We proceeded to clean and gemerate preliminary visualizations. This is large dataset spanning over 2 decades, based on multiple samplings accross Canada. We found the database to be rather intricate.
 
 ### Preprocessing
-Over the next few days, I will work on modelling and so far I have selected: Linear Regression, Randon Forest, and Adaboost.
+As we continued to analyze the date, we derived insights, andselected a baseline model. We also applied Feature Engineering.
 
 ### Advanced Modelling
-Given that our data is continuous and categorical, we chose regressors Models, including: Linear Regression, Random Forest Regressor, AdaBoost, Gradient Booster Regressor, and XGBoost. Although Linear Regression gave us excellent model performance, it also has a low score in AUROC (Measure of prediction power) and low scoresin Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. Hence, we proceeded to fine tune Random Fores, AdaBoost and XGBoost only.
+Given that our data is continuous and categorical, we chose regressors Models, including: Linear Regression, Random Forest Regressor, AdaBoost, Gradient Booster Regressor, and XGBoost.
 
 ### Models Comparisons
-Feature enginnering, ML Pipeline, and Dashboard.
+Although Linear Regression gave us excellent model performance, it also has a low score in AUROC (Measure of prediction power) and low scores in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, selected Random Forest Regressor, AdaBoost, and XGBoost to experiment with different parameters in order to fine tune said models.
 
 ### Conclusion and Call to Action
 TBD/In Progress
