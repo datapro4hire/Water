@@ -4,13 +4,18 @@
 Welcome! In here you will find details about my data science project. I will show you how I got started with the data analysis, and how I implemented machine learning.
 
 ### Overview
-In this project, I will analyze the impact of pollution affecting Canadian river basins. Data was obtained from the Government of Canada's Open Data site.
+Water is becoming scarce in many communities across Canada. The current situation warrants a detailed analysis of the available data
+
+Problem statement: pollutants present on river basins across Canada are affecting drinking water supplies and our food security
+
+Opportunity: the right machine learning solution could help mitigate adverse effects.
 
 ### Vision
-Over the last few decades, water has become a scarce resource in many communities across Canada. The aim of this analysis is to identify stressors affecting access to water and to predict water restrictions down the road. My ultimate goal is to help: 
-* Corporations optimize their consumption
-* Non-profits allocate resources to mitigate human impact
-* Governments plan infrastructure projects more efficiently
+Using machine learning, we could predict the long term effects of different chemicals polluting our water supply
+
+By targeting different affected sectors, business stakeholders will learn about potential opportunities
+
+And, as more models are trained and new solutions are created, more individuals could benefit
 
 <div style="position: relative; padding-bottom: 74.68879668049793%; height: 0;"><iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
