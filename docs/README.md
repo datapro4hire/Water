@@ -578,16 +578,16 @@ div.WordSection1
 
 
 ### Exploratory Data Analysis
-We acquired data from the Government of Canada. We proceeded to clean and gemerate preliminary visualizations. This is large dataset spanning over 2 decades, based on multiple samplings accross Canada. We found the database to be rather intricate.
+We acquired data from the Government of Canada. We proceeded to clean and gemerate preliminary visualizations. This is a large dataset of multiple samplings accross Canada, spanning over 2 decades. We found the database to be rather intricate.
 
 ### Preprocessing
-As we continued to analyze the date, we derived insights, andselected a baseline model. We also applied Feature Engineering.
+As we continued to analyze the data, we derived insights, and selected a baseline model. We also applied Feature Engineering.
 
 ### Advanced Modelling
 Given that our data is continuous and categorical, we chose regressors Models, including: Linear Regression, Random Forest Regressor, AdaBoost, Gradient Booster Regressor, and XGBoost.
 
 ### Models Comparisons
-Although Linear Regression gave us excellent model performance, it also has a low score in AUROC (Measure of prediction power) and low scores in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, selected Random Forest Regressor, AdaBoost, and XGBoost to experiment with different parameters in order to fine tune said models.
+Although Linear Regression gave us excellent model performance, this model has a low AUROC score (Measure of prediction power) and low score in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, we selected Random Forest Regressor, AdaBoost, and XGBoost to experiment with different parameters in order to fine tune said models.
 
 ### Conclusion and Call to Action
 TBD/In Progress
