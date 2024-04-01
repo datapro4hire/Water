@@ -3,10 +3,10 @@
 
 Welcome! In here you will find details about my data science project. I will show you how I got started with the data analysis, and how I implemented machine learning.
 
-### Introduction
+### Overview
 In this project, I will analyze the impact of pollution affecting Canadian river basins. Data was obtained from the Government of Canada's Open Data site.
 
-### Background
+### Vision
 Over the last few decades, water has become a scarce resource in many communities across Canada. The aim of this analysis is to identify stressors affecting access to water and to predict water restrictions down the road. My ultimate goal is to help: 
 * Corporations optimize their consumption
 * Non-profits allocate resources to mitigate human impact
@@ -17,9 +17,16 @@ Over the last few decades, water has become a scarce resource in many communitie
 Your browser does not support the video tag.
 </video>
 
-### Data cleaning 
-So far I have completed: Data collection, preliminary visualization, and initial Exploratory Data Analysis (EDA). In this process I have noticed certain limitations could hinder machine learning work. Namely, the datasets are focused on chemicals. I will also be looking into data quality issues stemming from the methods use (i.e. sample data collected at multiple sites by multiple parties and devices).
-
+<div>
+    <a href="https://www.loom.com/share/d62eb79370654ff8a21893108458934c">
+      <p>Water Monitoring Sites - Canadian Rivers Basins - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d62eb79370654ff8a21893108458934c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d62eb79370654ff8a21893108458934c-with-play.gif">
+    </a>
+  </div>
+<div style="position: relative; padding-bottom: 74.68879668049793%; height: 0;"><iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+  	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
 #### Data Dictionary
 <html>
 
