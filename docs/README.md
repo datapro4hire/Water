@@ -51,8 +51,6 @@ div.WordSection1
 
 </head>
 
-<body lang=EN-CA style='word-wrap:break-word'>
-
 <div class=WordSection1>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=630
@@ -567,7 +565,6 @@ div.WordSection1
 <p class=MsoNormal>&nbsp;</p>
 
 </div>
-</body>
 </html>
 
 ### Project Workflow
