@@ -12,7 +12,7 @@ Over the last few decades, water has become a scarce resource in many communitie
 * Non-profits allocate resources to mitigate human impact
 * Governments plan infrastructure projects more efficiently
 
-<video width="640" height="480" controls>
+<video width="320" height="240" controls>
   <source src="WaterCapstone.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -576,19 +576,19 @@ div.WordSection1
 </body>
 </html>
 
-### Exploratory Data Analysis
+### Project Workflow
 I spent quite a bit of time on this task, becoming familiar with the dataset. This is a large dataset, spanning 2 decades, with data fron locations all over Canada.
 
-### Statistical Analysis
+### Exploratory Data Analysis
 I identified the Target variable and performed some basic statistical analysis. As a result, I selected Linear Regression as my baseline model.
 
-### Machine Learning
+### Preprocessing
 Over the next few days, I will work on modelling and so far I have selected: Linear Regression, Randon Forest, and Adaboost.
 
-### Findings
+### Advanced Modelling
 There are issues with my dataset and I need to resolve them before moving to the modelling phase.
 
-### Next Steps
+### Models Comparisons
 Feature enginnering, ML Pipeline, and Dashboard.
 
 ### Conclusion and Call to Action
