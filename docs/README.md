@@ -568,7 +568,8 @@ div.WordSection1
 </html>
 
 ### Project Workflow
-I spent quite a bit of time on this task, becoming familiar with the dataset. This is a large dataset, spanning 2 decades, with data fron locations all over Canada.
+![image](https://github.com/datapro4hire/Water/assets/44354258/b6d94a9d-7310-488e-b948-65db9fda27cf)
+
 
 ### Exploratory Data Analysis
 I identified the Target variable and performed some basic statistical analysis. As a result, I selected Linear Regression as my baseline model.
