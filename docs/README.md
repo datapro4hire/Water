@@ -568,7 +568,8 @@ div.WordSection1
 </html>
 
 ### Project Workflow
-![image](https://github.com/datapro4hire/Water/assets/44354258/b6d94a9d-7310-488e-b948-65db9fda27cf)
+![image](https://github.com/datapro4hire/Water/assets/44354258/e454b69a-dd1d-4b3f-a04b-598d206975b5)
+
 
 
 ### Exploratory Data Analysis
