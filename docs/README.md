@@ -19,26 +19,6 @@ And, as more models are trained and new solutions are created, more individuals 
 
 <div style="position: relative; padding-bottom: 74.68879668049793%; height: 0;"><iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<div class="video-container">
-  <iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" allowfullscreen></iframe>
-</div>
-
-.video-container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-
 #### Data Dictionary
 <html>
 
