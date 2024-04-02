@@ -19,6 +19,26 @@ And, as more models are trained and new solutions are created, more individuals 
 
 <div style="position: relative; padding-bottom: 74.68879668049793%; height: 0;"><iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div class="video-container">
+  <iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" allowfullscreen></iframe>
+</div>
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
 #### Data Dictionary
 <html>
 
@@ -578,7 +598,9 @@ div.WordSection1
 
 
 ### Exploratory Data Analysis
-We acquired data from the Government of Canada. We proceeded to clean and generate preliminary visualizations. This is a large dataset of multiple samplings accross Canada, spanning over 2 decades. We found the database to be rather intricate.
+We acquired data from the Government of Canada. We proceeded to clean and generate preliminary visualizations. This is a rather large dataset of multiple samplings accross Canada, spanning over 2 decades. We found the database to be intricate amd hard to work with.
+
+![alt text](image-1.png)
 
 ### Preprocessing
 As we continued to analyze the data, we derived insights, and selected a baseline model. We also applied Feature Engineering.
@@ -587,7 +609,8 @@ As we continued to analyze the data, we derived insights, and selected a baselin
 Given that our data is continuous and categorical, we chose regressors Models, including: Linear Regression, Random Forest Regressor, AdaBoost, Gradient Booster Regressor, and XGBoost.
 
 ### Models Comparisons
-Although Linear Regression gave us excellent model performance, this model has a low AUROC score (Measure of prediction power) and low score in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, we opted to fine tune the other three models, by experimenting with different hyperparameters.
+![alt text](image-2.png)
+Although Linear Regression gave us excellent model performance, this model has a low AUROC score (Measure of prediction power) and low score in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, we opted to fine tuned the other three models, by experimenting with different hyperparameters.
 
 ### Conclusion and Call to Action
-TBD/In Progress
+In conclusion, this data analysis provides valuable insights into water quality across diverse Canadian river basins, encompassing extensive geographical regions and multiple pollutant variables with varying units of measurement. Despite the intricacies of the dataset, including its large size and heterogeneous nature, our analysis successfully navigated these challenges through meticulous cleaning processes, which involved dropping irrelevant columns and employing feature engineering techniques such as hot encoding. Through the application of various regression models, we were able to assess and compare their predictive capabilities, shedding light on the effectiveness of each model in forecasting water quality parameters. This analysis not only deepens our understanding of water quality dynamics but also underscores the importance of robust data preprocessing and model selection in extracting meaningful insights from complex environmental datasets
