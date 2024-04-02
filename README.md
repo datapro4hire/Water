@@ -3,31 +3,27 @@
 
 Welcome! In here you will find details about my data science project. I will show you how I got started with the data analysis, and how I implemented machine learning.
 
-### Introduction
-In this project, I will analyze the impact of pollution affecting Canadian river basins. Data was obtained from the Government of Canada's Open Data site.
+### Overview
+Water is becoming scarce in many communities across Canada. The current situation warrants a detailed analysis of the available data
 
-### Background
-Over the last few decades, water has become a scarce resource in many communities across Canada. The aim of this analysis is to identify stressors affecting access to water and to predict water restrictions down the road. My ultimate goal is to help: 
-* Corporations optimize their consumption
-* Non-profits allocate resources to mitigate human impact
-* Governments plan infrastructure projects more efficiently
+Problem statement: pollutants present on river basins across Canada are affecting drinking water supplies and our food security
 
-<div>
-    <a href="https://www.loom.com/share/d62eb79370654ff8a21893108458934c">
-      <p>Water Monitoring Sites - Canadian Rivers Basins - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/d62eb79370654ff8a21893108458934c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d62eb79370654ff8a21893108458934c-with-play.gif">
-    </a>
-  </div>
+Opportunity: the right machine learning solution could help mitigate adverse effects.
+
+### Vision
+Using machine learning, we could predict the volume of different polluntants that could affect our water supply
+
+By sharing our findings with different affected sectors, business and government stakeholders will learn about potential opportunities
+
+And, as more models are trained and new solutions are created, more individuals could benefit
+
 <div style="position: relative; padding-bottom: 74.68879668049793%; height: 0;"><iframe src="https://www.loom.com/embed/d62eb79370654ff8a21893108458934c?sid=9fb44396-5fab-4a34-a58d-a51999a29c15" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-  	![image](https://github.com/xavieruxchamp/Water-Access-Analysis/assets/44354258/4e1baca2-59b8-485e-bea8-0c5bd6e37c9c)
-
-### Data cleaning
-So far I have completed: Data collection, preliminary visualization, and initial Exploratory Data Analysis (EDA). In this process I have noticed certain limitations could hinder machine learning work. Namely, the datasets are focused on chemicals. I will also be looking into data quality issues stemming from the methods use (i.e. sample data collected at multiple sites by multiple parties and devices).
 
 #### Data Dictionary
 <html>
+
+
+
 <head>
 
 <!--
@@ -60,12 +56,10 @@ div.WordSection1
 
 </head>
 
-<body lang=EN-CA style='word-wrap:break-word'>
-
 <div class=WordSection1>
 
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=630 style="width:100%">
-<!-- style='width:472.25pt;border-collapse:collapse;border:none'> -->
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=630
+ style='width:472.25pt;border-collapse:collapse;border:none'>
  <tr style='height:15.05pt'>
   <td width=148 style='width:110.8pt;border:solid windowtext 1.0pt;padding:
   0in 5.4pt 0in 5.4pt;height:15.05pt'>
@@ -573,20 +567,30 @@ div.WordSection1
  </tr>
 </table>
 
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+</html>
+
+### Project Workflow
+![image](https://github.com/datapro4hire/Water/assets/44354258/e454b69a-dd1d-4b3f-a04b-598d206975b5)
+
+
+
 ### Exploratory Data Analysis
-I spent quite a bit of time on this task, becoming familiar with the dataset. This is a large dataset, spanning 2 decades, with data fron locations all over Canada.
+We acquired data from the Government of Canada. We proceeded to clean and generate preliminary visualizations. This is a rather large dataset of multiple samplings accross Canada, spanning over 2 decades. We found the database to be intricate amd hard to work with.
 
-### Statistical Analysis
-I identified the Target variable and performed some basic statistical analysis. As a result, I selected Linear Regression as my baseline model.
+![alt text](image-1.png)
 
-### Machine Learning
-Over the next few days, I will work on modelling and so far I have selected: Linear Regression, Randon Forest, and Adaboost.
+### Preprocessing
+As we continued to analyze the data, we derived insights, and selected a baseline model. We also applied Feature Engineering.
 
-### Findings
-There are issues with my dataset and I need to resolve them before moving to the modelling phase.
+### Advanced Modelling
+Given that our data is continuous and categorical, we chose regressors Models, including: Linear Regression, Random Forest Regressor, AdaBoost, Gradient Booster Regressor, and XGBoost.
 
-### Next Steps
-Feature enginnering, ML Pipeline, and Dashboard.
+### Models Comparisons
+![alt text](image-2.png)
+Although Linear Regression gave us excellent model performance, this model has a low AUROC score (Measure of prediction power) and low score in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, we opted to fine tuned the other three models, by experimenting with different hyperparameters.
 
-### Conclusion and Call to Action
-TBD/In Progress
+### Conclusion
+This data analysis provides valuable insights into water quality across diverse Canadian river basins, encompassing extensive geographical regions and multiple pollutant variables with varying units of measurement. Despite the intricacies of the dataset, including its large size and heterogeneous nature, our analysis successfully navigated these challenges through meticulous cleaning processes, which involved dropping irrelevant columns and employing feature engineering techniques such as hot encoding. Through the application of various regression models, we were able to assess and compare their predictive capabilities, shedding light on the effectiveness of each model in forecasting water quality parameters. 

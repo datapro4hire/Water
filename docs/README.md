@@ -11,9 +11,9 @@ Problem statement: pollutants present on river basins across Canada are affectin
 Opportunity: the right machine learning solution could help mitigate adverse effects.
 
 ### Vision
-Using machine learning, we could predict the long term effects of different chemicals polluting our water supply
+Using machine learning, we could predict the volume of different polluntants that could affect our water supply
 
-By targeting different affected sectors, business stakeholders will learn about potential opportunities
+By sharing our findings with different affected sectors, business and government stakeholders will learn about potential opportunities
 
 And, as more models are trained and new solutions are created, more individuals could benefit
 
@@ -592,5 +592,5 @@ Given that our data is continuous and categorical, we chose regressors Models, i
 ![alt text](image-2.png)
 Although Linear Regression gave us excellent model performance, this model has a low AUROC score (Measure of prediction power) and low score in Training Time. Gradient Booster Regressor, on the other hand gave us poor model fit. For that reason, we opted to fine tuned the other three models, by experimenting with different hyperparameters.
 
-### Conclusion and Call to Action
+### Conclusion
 This data analysis provides valuable insights into water quality across diverse Canadian river basins, encompassing extensive geographical regions and multiple pollutant variables with varying units of measurement. Despite the intricacies of the dataset, including its large size and heterogeneous nature, our analysis successfully navigated these challenges through meticulous cleaning processes, which involved dropping irrelevant columns and employing feature engineering techniques such as hot encoding. Through the application of various regression models, we were able to assess and compare their predictive capabilities, shedding light on the effectiveness of each model in forecasting water quality parameters. 
