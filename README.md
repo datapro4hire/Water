@@ -19,7 +19,6 @@ So far I have completed: Data collection, preliminary visualization, and initial
 
 #### Data Dictionary
 <html>
-
 <head>
 
 <!--
